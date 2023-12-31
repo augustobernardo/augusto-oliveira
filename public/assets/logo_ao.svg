@@ -1,0 +1,14 @@
+<svg width="48" height="47" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="clip0_204_118">
+   <rect id="svg_1" x="0" y="-1" fill="white" height="48" width="48"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_9">
+   <path stroke="null" id="svg_3" fill="#2563eb" d="m0.33334,15.70492c0,-6.00548 3.78304,-11.42027 9.74111,-12.85262c9.9675,-2.39625 25.01211,-4.37029 32.4181,2.87925c6.25145,6.1195 5.78906,17.56664 4.02057,26.85521c-1.68605,8.85575 -10.10093,14.41324 -19.30352,14.41324l-19.48043,0c-4.0846,0 -7.39583,-3.24131 -7.39583,-7.23958l0,-24.05549z"/>
+   <text stroke="null" font-style="normal" font-weight="normal" transform="matrix(1.12573 0 0 1.08361 -0.362104 -0.521215)" xml:space="preserve" text-anchor="start" font-family="'Fraunces'" font-size="24" stroke-width="0" id="svg_7" y="30.93621" x="3.5541" fill="#ffffff">AO</text>
+  </g>
+ </g>
+</svg>
