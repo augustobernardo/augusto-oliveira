@@ -10,6 +10,7 @@ import {
   RiTeamFill,
   RiTodoFill,
   RiArrowDownSLine,
+  RiBriefcase4Fill,
 } from "react-icons/ri";
 
 import DevImg from "./DevImg";
@@ -46,9 +47,17 @@ const Hero = () => {
             />
           </div>
           <div className="hidden xl:flex relative">
-            <div className="bg-hero_shape2_light dark:bg-hero_shape2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2">
-              {/* <DevImg containerStyles="bg-hero_shape w-[510px] h-[462px] bg-no-repeat reltive bg-bottom" imgSrc="/assets/hero/developer.png" /> */}
-            </div>
+            <Badge
+              containerStyles='absolute top-[24%] -left-[5rem]'
+              icon={<RiBriefcase4Fill />}
+              endCountNum={2}
+              badgeText="Years Of Experience"
+            />
+            <div className="bg-hero_shape2_light dark:bg-hero_shape2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2"></div>
+            <DevImg
+              containerStyles="bg-hero_shape w-[510px] h-[462px] bg-no-repeat relative bg-bottom"
+              imgSrc="/assets/hero/developer.png"
+            />
           </div>
         </div>
 
